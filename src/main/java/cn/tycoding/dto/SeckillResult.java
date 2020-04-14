@@ -3,8 +3,8 @@ package cn.tycoding.dto;
 /**
  * 封装JSON返回的结果格式
  *
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public class SeckillResult<T> {
 

@@ -7,8 +7,8 @@ import org.apache.ibatis.annotations.Param;
 import java.math.BigDecimal;
 
 /**
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 @Mapper
 public interface SeckillOrderMapper {

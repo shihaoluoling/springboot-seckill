@@ -10,8 +10,8 @@ import java.util.Date;
 /**
  * 秒杀商品表（秒杀商品表和其他商品表不同，属于独立的模块）
  *
- * @auther TyCoding
- * @date 2018/10/6
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public class Seckill implements Serializable {
 

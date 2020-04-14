@@ -24,8 +24,8 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @auther TyCoding
- * @date 2018/10/6
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 @Service
 public class SeckillServiceImpl implements SeckillService {

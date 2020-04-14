@@ -6,8 +6,8 @@ import cn.tycoding.enums.SeckillStatEnum;
 /**
  * 封装执行秒杀后的结果
  *
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public class SeckillExecution {
 

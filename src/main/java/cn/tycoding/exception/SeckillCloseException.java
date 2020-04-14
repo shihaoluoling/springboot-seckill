@@ -2,8 +2,8 @@ package cn.tycoding.exception;
 
 /**
  * 秒杀关闭异常
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public class SeckillCloseException extends SeckillException {
 

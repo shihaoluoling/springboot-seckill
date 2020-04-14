@@ -9,8 +9,8 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
 /**
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 @Configuration
 public class JedisConfig {

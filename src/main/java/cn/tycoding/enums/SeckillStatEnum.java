@@ -1,8 +1,8 @@
 package cn.tycoding.enums;
 
 /**
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public enum SeckillStatEnum {
     SUCCESS(1, "秒杀成功"),

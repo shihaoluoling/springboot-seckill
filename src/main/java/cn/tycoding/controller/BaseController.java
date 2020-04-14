@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 用于做页面映射跳转的控制层
  *
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 @Controller
 public class BaseController {

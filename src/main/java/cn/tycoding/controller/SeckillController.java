@@ -23,8 +23,8 @@ import java.util.List;
 /**
  * 秒杀商品的控制层
  *
- * @auther TyCoding
- * @date 2018/10/6
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 @Controller
 @RequestMapping("/seckill")

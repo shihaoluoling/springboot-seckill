@@ -10,8 +10,8 @@ import java.util.Date;
 /**
  * 秒杀订单表（秒杀订单表和其他订单表不同，属于独立的模块）
  *
- * @auther TyCoding
- * @date 2018/10/6
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public class SeckillOrder implements Serializable {
 

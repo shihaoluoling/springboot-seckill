@@ -3,8 +3,8 @@ package cn.tycoding.exception;
 /**
  * 秒杀相关的异常
  *
- * @auther TyCoding
- * @date 2018/10/8
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public class SeckillException extends RuntimeException {
 

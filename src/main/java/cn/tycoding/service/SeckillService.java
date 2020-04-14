@@ -16,8 +16,8 @@ import java.util.List;
  * 2.方法的参数要明确且简练，不建议用类似Map这种让使用者封装一堆参数传递过来
  * 3.方法的return类型，除了要明确返回值类型，还应该指定该方法可能抛出的异常
  *
- * @auther TyCoding
- * @date 2018/10/6
+ * @auther shihaoluoling
+ * @date 2019/10/8
  */
 public interface SeckillService {
 
